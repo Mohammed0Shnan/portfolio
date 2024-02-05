@@ -60,6 +60,7 @@ export const EXPERIENCES: Experience[] = [
       "Publishing And Support",
     ],
     skills: [
+      { label: SkillsEnum.Flutter },
       { label: SkillsEnum.Javascript },
       { label: SkillsEnum.Typescript },
       { label: SkillsEnum.NodeJs },
